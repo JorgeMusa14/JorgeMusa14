@@ -11,4 +11,4 @@ Passionate about data-driven insights, statistical modeling, and urban mobility 
 
 
 ## Contact
-[LinkedIn](https://www.linkedin.com/in/jorgeeliasmusa/) | [Email](mailto:eliasmusa@gmail.com) | [Phone](+ 1 809 916 4849)
+[LinkedIn](https://www.linkedin.com/in/jorgeeliasmusa/) | [Email](mailto:eliasmusa@gmail.com) | Phone number (+ 1 809 916 4849)

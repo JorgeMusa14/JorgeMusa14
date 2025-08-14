@@ -1,5 +1,5 @@
 **Economist & Data Scientist** from the Dominican Republic  
-Passionate about data-driven insights, statistical modeling, and urban mobility research.
+Passionate about data-driven insights and statistical modeling.
 
 ## Skills
 - **Languages:** R, Python, SQL, NoSQL
